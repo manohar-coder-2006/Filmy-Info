@@ -1,0 +1,16 @@
+{
+    id: "tt19768084"
+    primaryImage: null
+    releaseDate: null
+    releaseYear: null
+    titleText:
+    text: "Death of spiderman the movie"
+    __typename: "TitleText"
+    [[Prototype]]: Object
+    titleType:
+    id: "movie"
+    isEpisode: false
+    isSeries: false
+    text: "Movie"
+    __typename: "TitleType"
+}
